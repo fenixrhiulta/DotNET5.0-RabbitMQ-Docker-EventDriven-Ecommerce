@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "MS_Messenger.Worker": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
