@@ -1,5 +1,5 @@
 # RabbitMQ.Ecommerce
-Microservices in Event-Driven Architecture + RabbitMQ + SQL Server + Dockerfile
+Microservices in Event-Driven Architecture + RabbitMQ + SQL Server + Docker
 
 - Payment microservice
 - Order microservice
